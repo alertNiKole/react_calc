@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+/*import App from './App'; */
 import Application from './application';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(
-  <React.StrictMode>
+ReactDOM.render(<Application/>,
+ /* <React.StrictMode>
     <App />
-  </React.StrictMode>,
+  </React.StrictMode>, */ // deleted fron default set up
   document.getElementById('root')
 );
 
