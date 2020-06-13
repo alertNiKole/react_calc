@@ -1,3 +1,4 @@
+/* Imports (exports from the library to the app)*/
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
