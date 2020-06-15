@@ -1,0 +1,11 @@
+body button {
+    border-radius: 50px;
+    padding: 10px;
+    border: 0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #10e710;
+    font-weight: 700;
+    background-color:#646464;
+
+}
